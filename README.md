@@ -1,24 +1,19 @@
-# README
+Première partie pour un futur site Gossip qui déchire.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Instruction à suivre:
 
-Things you may want to cover:
+* 1 --> bundle install 
 
-* Ruby version
+* 2 --> rails db:create
 
-* System dependencies
+* 3 --> rails db:migrate
 
-* Configuration
+* 4 --> rails db:migrate:status
 
-* Database creation
+* 5 --> rails db:seed
 
-* Database initialization
+* 6 --> rails server
 
-* How to run the test suite
+* 7 --> Go le navigateur et tape: localhost:3000
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 8 --> Enjoy !! 😉
