@@ -14,6 +14,6 @@ Instruction à suivre:
 
 * 6 --> `rails server`
 
-* 7 --> `Go le navigateur et tape: localhost:3000`
+* 7 --> Go le navigateur et tape: `localhost:3000`
 
 * 8 --> Enjoy !! 😉
